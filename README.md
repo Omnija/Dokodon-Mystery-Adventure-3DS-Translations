@@ -26,5 +26,6 @@ Omnija & Sotaeko
 
 ## Screenshots
 
-![Intro](/docs/monsters.png) ![Intro](/docs/items.png)
+![Intro](/docs/monsters.png) ![Intro](/docs/map.png)
 ![Intro](/docs/obtained.png) ![Intro](/docs/stamps.png)
+![Intro](/docs/items.png) ![Intro](/docs/items2.png)
